@@ -1,4 +1,3 @@
 # My-eCornell-Portfolio
-Includes Jupyter Notebook assignments from Machine Learning Foundations
 
-This Notebook includes my final projectw here I implemented a Random Forest model to predict the income for an individual using census data. I utilized various data preperation techniques to ensure the data was ready to be trained on. AFter implementing my Random Forest, I trained the hyperparameters to get the best model, and then evaluated this model using an AUC-ROC curve.  
+This Jupyter Notebook includes my final project from Machine Learning Foundations where I applied machine learning techniques by implementing a Random Forest model to predict individual income using the UCI Adult Census dataset. I performed data preprocessing steps such as handling missing values, encoding categorical features, and normalizing the data to ensure optimal model performance. After implementing the Random Forest, I conducted hyperparameter tuning using GridSearchCV to achieve the best model configuration and evaluated its performance with an AUC-ROC curve, which provided a comprehensive assessment of the model's ability to distinguish between different income classes.
